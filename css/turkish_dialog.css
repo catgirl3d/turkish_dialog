@@ -42,9 +42,9 @@ a {
 }
 .abstract-job-widget {
 	border: #ddd solid 1px;
-	padding: 10px;
+	padding: 8px 10px;
 	margin-top: 10px;
-	background: #fffdeb;
+	background: cornsilk;
 }
 
 .small .text-muted {
@@ -662,5 +662,5 @@ border-left: 3px solid;
 }
 .task-form .task-body {
 	padding: 15px !important;
-	font-weight: lighter;
+	font-weight: lighter !important;
 }
