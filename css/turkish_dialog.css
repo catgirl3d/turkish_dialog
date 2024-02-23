@@ -664,3 +664,14 @@ border-left: 3px solid;
 	padding: 15px !important;
 	font-weight: lighter !important;
 }
+.task-form .task-object {
+	background: #F0F0F0;
+	padding: 10px 20px;
+	margin-bottom: 10px;
+}
+.alert {
+	padding: 15px;
+	margin-bottom: 10px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+}
