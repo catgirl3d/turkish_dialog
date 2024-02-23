@@ -660,3 +660,6 @@ border-left: 3px solid;
 	padding-bottom: 0px;
 	border-left: solid 4px #5e79bb;
 }
+.task-form .task-body {
+	padding: 15px !important;
+}
