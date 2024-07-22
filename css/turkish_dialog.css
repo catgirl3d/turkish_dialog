@@ -680,6 +680,11 @@ border-left: 3px solid;
 	border: 1px solid transparent;
 	border-radius: 4px;
 }
+
+.pull-left > a {
+	font-weight: bold;
+}
+
 /*
 .pull-left > a {
 	color: #fff;
