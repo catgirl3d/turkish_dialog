@@ -59,7 +59,7 @@ a {
 }
 
 .deal-status {
-	background: #693daa;
+	background: #4e5293;
 	color: white;
 }
 .deal-status.status-new {
@@ -679,4 +679,27 @@ border-left: 3px solid;
 	margin-bottom: 10px;
 	border: 1px solid transparent;
 	border-radius: 4px;
+}
+
+.pull-left > a {
+	color: #fff;
+	font-size: 18px;
+	display: block;
+	font-weight: bold;
+	background: #d05555;
+	padding: 3px 43px 19px;
+	border-radius: 3px;
+	margin-bottom: 10px;
+}
+
+.text-right.col-md-5 {
+	position: relative;
+	top: -30px;
+	right: 160px;
+	color: white;
+	font-weight: lighter;
+}
+
+.row.for-hide > .col-md-7 {
+	font-weight: bold;
 }
