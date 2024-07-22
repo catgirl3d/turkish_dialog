@@ -699,7 +699,3 @@ border-left: 3px solid;
 	color: white;
 	font-weight: lighter;
 }
-
-.row.for-hide > .col-md-7 {
-	font-weight: bold;
-}
