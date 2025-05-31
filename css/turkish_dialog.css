@@ -6,9 +6,10 @@
 	background: #fdf3cd;
 }
 .task-form > div > .change-logs {
-	margin-left: -25px !important;
-	position: absolute !important;;
-	margin-top: -27px !important;;
+	display:none !important;
+	/*margin-left: -25px !important;
+	position: absolute !important;
+	margin-top: -27px !important;*/
 }
 .btn-primary.focus, .btn-primary:focus {
 	background-color: #4a65a4 !important;
