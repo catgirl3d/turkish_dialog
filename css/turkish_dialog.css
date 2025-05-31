@@ -11,6 +11,16 @@
 	position: absolute !important;
 	margin-top: -27px !important;*/
 }
+
+.task-form.task-form-closed .open-btn {
+	display: inline;
+	cursor: pointer;
+	font-size: 20px !important;
+	padding: 10px !important;
+	position: relative !important;
+	top: 2px;
+}
+
 .btn-primary.focus, .btn-primary:focus {
 	background-color: #4a65a4 !important;
 	border-color: #4a65a4 !important;
